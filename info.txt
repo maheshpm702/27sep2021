@@ -1,1 +1,4 @@
 devops is easy
+devops is important
+devops is cool
+devops is super cool
